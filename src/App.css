@@ -15,3 +15,7 @@
     --main-color: #005eda;
     --second-color: #003780;
 }
+
+section{
+    padding: 50px 10%;
+}
