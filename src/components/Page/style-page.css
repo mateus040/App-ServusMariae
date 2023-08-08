@@ -1,0 +1,51 @@
+main {
+    margin-top: 100px;
+    padding: 20px; /* Importante */
+    padding-bottom: 20px; /* Espaço vazio para evitar que o footer sobreponha o conteúdo */
+}
+
+article {
+    max-width: 800px; /* Importante */
+    margin: 0 auto; /* Importante */
+    line-height: 1.6;
+}
+
+article h1 {
+    font-size: 28px;
+}
+
+article p{
+    padding-bottom: 1rem;
+}
+
+.titulo{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.titulo h1{
+    font-size: 35px;
+    color: var(--second-color);
+    font-family: "Lora", sans-serif;
+}
+
+.titulo p{
+    font-size: 18px;
+    color: #dba11d;
+    font-style: italic;
+}
+
+.aparicoes{
+    padding-top: 1.5rem;
+}
+
+.aparicoes h3{
+    font-size: 25px;
+    color: var(--second-color);
+    font-family: "Lora", sans-serif;
+}
+
+.aparicoes .subtitulo{
+    font-style: italic;
+    color: #dba11d;
+}
